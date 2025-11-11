@@ -16,3 +16,18 @@
 
 
 > "Consistency beats talent."
+## 🌟 
+Two Sum (LeetCode #1)
+
+**Problem:**  
+Given an array `nums` and an integer `target`, return indices of two numbers that add up to `target`.
+
+**Approach:**  
+Used brute force — nested loops checking each pair `(i, j)`.
+
+**Code File:**  
+`LeetCode/Day1/TwoSum.java`
+
+**Complexity:**  
+- Time: O(n²)  
+- Space: O(1)
