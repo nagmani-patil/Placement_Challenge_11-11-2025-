@@ -48,3 +48,25 @@ Added practice programs for user input and data handling.
 #100DaysOfCode #JavaLearningJourney
 
 
+📘 Day 3 — Flowchart + Variables & Data Types
+Topics Covered
+
+What is a flowchart?
+
+Flowchart symbols
+
+Variables in Java
+
+Data types: primitive vs non-primitive
+
+Type casting basics
+
+Taking input using Scanner
+
+Key Learnings
+
+Logic comes first → Code comes later
+
+Best variable name = Meaningful + readable
+
+Always choose smallest suitable data type (memory efficient)
